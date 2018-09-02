@@ -10,6 +10,8 @@ I created this repository to help me and other people in understanding these imp
 2. [WeakSets](https://github.com/lalitmee/jbasics/blob/master/WeakSets.md)
 3. [Maps](https://github.com/lalitmee/jbasics/blob/master/Maps.md)
 4. [WeakMaps](https://github.com/lalitmee/jbasics/blob/master/WeakMaps.md)
+5. [Promises](https://github.com/lalitmee/jbasics/blob/master/Promises.md)
+6. [Proxies](https://github.com/lalitmee/jbasics/blob/master/Proxies.md)
 
 ## Contribution
 
