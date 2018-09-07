@@ -116,3 +116,30 @@ So we've looked at the `get` and `set` traps (which are probably the ones you'll
 13. [the setPrototypeOf trap](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/setPrototypeOf) - lets the proxy handle calls to `Object.setPrototypeOf` on the proxy object
 
 As you can see, there are a lot of traps that let the proxy manage how it handles calls back and forth to the proxied object.
+
+# Proxy Summary
+
+A proxy object sits between a real object and the calling code. The calling code interacts with the proxy instead of the real object. To create a proxy:
+
+- use the
+
+   
+
+  ```
+  new Proxy()
+  ```
+
+   
+
+  constructor
+
+  - pass the object being proxied as the first item
+  - the second object is a handler object
+
+- the handler object is made up of 1 of 13 different "traps"
+
+- a trap is a function that will intercept calls to properties let you run code
+
+- if a trap is not defined, the default behavior is sent to the target object
+
+Proxies are a powerful new way to create and manage the interactions between objects.
