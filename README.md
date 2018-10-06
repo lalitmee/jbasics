@@ -16,6 +16,9 @@ I created this repository to help me and other people in understanding these imp
 8. [Generators & Iterators](https://github.com/lalitmee/jbasics/blob/master/Generators%20%26%20Iterators.md)
 9. [Polyfill](https://github.com/lalitmee/jbasics/blob/master/Polyfill.md)
 10. [Node.js Handbook](https://github.com/lalitmee/jbasics/blob/master/nodejs_handbook.md)
+11. [Promises' Posts and Information](https://github.com/lalitmee/jbasics/blob/master/Promises'%20Posts%20and%20Information.md)
+12. [Image Compression](https://github.com/lalitmee/jbasics/blob/master/image_compression.md)
+13. [The XHR Object](https://github.com/lalitmee/jbasics/blob/master/TheXHRObject.md)
 
 ## Contribution
 
